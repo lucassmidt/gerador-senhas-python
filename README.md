@@ -6,5 +6,5 @@ Projeto simples em Python para gerar senhas seguras diretamente no terminal.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/gerador-senhas-terminal.git
+   git clone https://github.com/seu-usuario/gerador-senhas-python.git
    cd gerador-senhas-terminal
