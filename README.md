@@ -1,4 +1,4 @@
-# 🔐 Gerador de Senhas (Terminal)
+# 🔐 Gerador de Senhas em Python
 
 Projeto simples em Python para gerar senhas seguras diretamente no terminal.
 
